@@ -2,7 +2,7 @@ let numero = prompt("digite um número par")
 
 numero = Number(numero)
 
-let resultado = numero%2
+let resultado = numero % 2
 
 console.log(resultado)
 
